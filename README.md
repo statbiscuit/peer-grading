@@ -6,7 +6,8 @@ This study was reviewed and received ethics clearance through the University of 
 
 ## Files
 
- + `01-analysis.r` contains all the `R` code for the summaries, plots, and analysis for the data above discussed in the manuscript. Sections of this script will output the plots found in the `plots/` directory.
+ + `01-analysis.r` contains all the `R` code for the summaries, plots, correlation and multivariate analysis of the data discussed in the manuscript. Sections of this script will output the plots found in the `plots/` directory.
+ + `02-discrete_beta.r` contains the `RTMB` code for the discrete-Beta model discussed in the manuscript (including extra examples). Created plots are also output to the `plots/` directory.
  + `student_and_tutor-grades.RData` contains three `R` objects
     + `peer_grades` is a data frame with 741 observations and 10 variables
        + `file_name`, character submission ID
