@@ -2,7 +2,7 @@
 
 Repo DOI upon acceptance to the Journal of Statistics and Data Science Education [![DOI](https://zenodo.org/badge/685759125.svg)](https://doi.org/10.5281/zenodo.15621045)
 
-### Supplementary material for *A comparison of tutor- and peer-grading of `R` code* C. M. Jones-Todd and A. Renelle.
+### Supplementary material for [Jones-Todd, C. M., & Renelle, A. (2025). A comparison of peer- and tutor-grading of an introductory `R` coding assessment. Journal of Statistics and Data Science Education, 1–19. https://doi.org/10.1080/26939169.2025.2520205](https://doi.org/10.1080/26939169.2025.2520205)
 
 This study was reviewed and received ethics clearance through the University of Auckland Human Participants Ethics Committee (UAHPEC25385)
 
